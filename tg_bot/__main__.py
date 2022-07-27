@@ -20,8 +20,11 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 
 Hᴇʏ {} , 
-I ᴀᴍ {}. I'ᴍ ᴡᴏʀᴋɪɴɢ ғᴏʀ<a href=https://t.me/cinemala_com1>ᴄɪɴᴇᴍᴀʟᴀ.ᴄᴏᴍ</a> 
+
+I ᴀᴍ {}. I'ᴍ ᴡᴏʀᴋɪɴɢ ғᴏʀ [ᴄɪɴᴇᴍᴀʟᴀ.ᴄᴏᴍ](https://t.me/cinemala_com1) .
+
 Yᴏᴜ ᴄᴀɴ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ. I ʜᴀᴠᴇ sᴏᴍᴇ ᴍᴀɴʏ ғᴇᴀᴛᴜʀᴇs.
+
 """
 
 HELP_STRINGS = """
